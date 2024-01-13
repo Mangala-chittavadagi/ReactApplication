@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "pprice": "20",
+      "pname": "waterbottle",
+      "pqty": "1",
+      "id": 1
+    },
+    {
+      "pname": "glass",
+      "pprice": "40",
+      "pqty": "2",
+      "id": 2
+    },
+    {
+      "pprice": "5000",
+      "pname": "maggie",
+      "pqty": "100",
+      "id": 3
+    },
+    {
+      "pprice": "500",
+      "pname": "watermelon",
+      "pqty": "10",
+      "id": 4
+    },
+    {
+      "pprice": "1200000",
+      "pname": "Mobile",
+      "pqty": "12",
+      "id": 5
+    },
+    {
+      "pprice": "345454",
+      "pname": "Book",
+      "pqty": "1200",
+      "id": 6
+    }
+  ]
+}
